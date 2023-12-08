@@ -31,53 +31,8 @@ The table below shows the time it takes to generate a proof for a hash chain of 
     </thead>
     <tbody>
         <tr>
-            <td colspan=8>Apple M2 (4P + 4E cores), 24GB RAM </td>
-        </tr>
-        <tr>
-            <td> </td>
-            <td style="text-align:left">Miden VM</td>
-            <td>1.86</td>
-            <td>17.14</td>
-            <td>0.92</td>
-            <td>8.26</td>
-            <td>0.05</td>
-            <td>0.25</td>
-        </tr>
-        <tr>
-            <td> </td>
-            <td style="text-align:left">RISC Zero</td>
-            <td>1.29</td>
-            <td>5.30</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
-        </tr>
-        <tr>
-            <td colspan=8>AWS Graviton 3 (64 cores), 128 GB RAM</td>
-        </tr>
-        <tr>
-            <td> </td>
-            <td style="text-align:left">Miden VM</td>
-            <td>0.49</td>
-            <td>3.99</td>
-            <td>0.33</td>
-            <td>2.06</td>
-            <td>0.05</td>
-            <td>0.13</td>
-        </tr>
-        <tr>
-            <td> </td>
-            <td style="text-align:left">RISC Zero</td>
-            <td>0.40</td>
-            <td>1.59</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
-        </tr>
-        <tr>
-            <td colspan=8>Dell XPS 15 9500 (i7-10875H CPU @ 2.30GHz × 16), 32 GB RAM</td>
+            <td colspan=8>Lenovo ThinkPad(10th Gen Intel® Core™ i5-1135G7 @ 2.40GHz × 8), 32 GB
+RAM</td>
         </tr>
         <tr>
             <td> </td>
@@ -129,53 +84,8 @@ The table below shows the time it takes to verify a proof of correctly computing
     </thead>
     <tbody>
         <tr>
-            <td colspan=8>Apple M2 (4P + 4E cores), 24GB RAM </td>
-        </tr>
-        <tr>
-            <td> </td>
-            <td style="text-align:left">Miden VM</td>
-            <td>2.42</td>
-            <td>3.73</td>
-            <td>2.56</td>
-            <td>2.52</td>
-            <td>2.28</td>
-            <td>2.42</td>
-        </tr>
-        <tr>
-            <td> </td>
-            <td style="text-align:left">RISC Zero</td>
-            <td>1.92</td>
-            <td>2.44</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
-        </tr>
-        <tr>
-            <td colspan=8>AWS Graviton 3 (64 cores), 128 GB RAM</td>
-        </tr>
-        <tr>
-            <td> </td>
-            <td style="text-align:left">Miden VM</td>
-            <td>3.26</td>
-            <td>3.54</td>
-            <td>3.24</td>
-            <td>3.47</td>
-            <td>2.81</td>
-            <td>3.04</td>
-        </tr>
-        <tr>
-            <td> </td>
-            <td style="text-align:left">RISC Zero</td>
-            <td>3.03</td>
-            <td>4.05</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
-        </tr>
-        <tr>
-            <td colspan=8>Dell XPS 15 9500 (i7-10875H CPU @ 2.30GHz × 16), 32 GB RAM</td>
+            <td colspan=8>Lenovo ThinkPad(10th Gen Intel® Core™ i5-1135G7 @ 2.40GHz × 8), 32 GB
+RAM</td>
         </tr>
         <tr>
             <td> </td>
