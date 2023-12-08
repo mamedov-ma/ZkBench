@@ -1,8 +1,6 @@
 
 
-### Iterated hashing
-
-(Scenario type: building block)
+### Test case description
 
 Iterated hashing is an essential building block for Merkle tree structures and whenever one needs to succinctly commit larger amounts of data.
 
@@ -150,15 +148,8 @@ The table below shows the size of a generated proof in **kilobytes**. Proof size
             <td> </td>
             <td> </td>
         </tr>
-       
 </table>
 
 ---
-
-### Running all of the benchmarks
-
-```console
-$ ./all.sh
-```
 
 
