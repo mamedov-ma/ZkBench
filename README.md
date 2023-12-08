@@ -35,18 +35,18 @@ RAM</td>
         <tr>
             <td> </td>
             <td style="text-align:left">Miden VM</td>
-            <td>3.85</td>
-            <td>37.79</td>
-            <td>1.59</td>
-            <td>17.37</td>
-            <td>0.07</td>
-            <td>0.53</td>
+            <td>3.14</td>
+            <td>32.33</td>
+            <td>1.72</td>
+            <td>18.01</td>
+            <td>0.09</td>
+            <td>0.69</td>
         </tr>
         <tr>
             <td> </td>
             <td style="text-align:left">RISC Zero</td>
-            <td>1.83</td>
-            <td>7.26</td>
+            <td>1.76</td>
+            <td>7.05</td>
             <td> </td>
             <td> </td>
             <td> </td>
@@ -88,18 +88,18 @@ RAM</td>
         <tr>
             <td> </td>
             <td style="text-align:left">Miden VM</td>
-            <td> 3.65</td>
-            <td> 3.18</td>
-            <td> 2.96</td>
-            <td> 3.78</td>
-            <td> 2.87</td>
-            <td> 3.13</td>
+            <td> 3.35</td>
+            <td> 3.21</td>
+            <td> 2.35</td>
+            <td> 3.11</td>
+            <td> 2.66</td>
+            <td> 3.02</td>
         </tr>
         <tr>
             <td> </td>
             <td style="text-align:left">RISC Zero</td>
-            <td> 3.81</td>
-            <td> 6.39</td>
+            <td> 3.67</td>
+            <td> 6.43</td>
             <td> </td>
             <td> </td>
             <td> </td>
@@ -132,17 +132,17 @@ The table below shows the size of a generated proof in **kilobytes**. Proof size
     <tbody>
         <tr>
             <td style="text-align:left">Miden VM</td>
-            <td>87.7</td>
-            <td>105.0</td>
-            <td>81.3</td>
-            <td>98.4</td>
-            <td>56.2</td>
-            <td>71.0</td>
+            <td>87.1</td>
+            <td>104.9</td>
+            <td>80.0</td>
+            <td>98.6</td>
+            <td>56.6</td>
+            <td>70.8</td>
         </tr>
         <tr>
             <td style="text-align:left">RISC Zero</td>
-            <td>183.4</td>
-            <td>205.1</td>
+            <td>182.9</td>
+            <td>204.9</td>
             <td> </td>
             <td> </td>
             <td> </td>
